@@ -1,0 +1,15 @@
+C:\Users\gabri\estrutura basica\bin\Debug\net6.0\estrutura basica.exe
+C:\Users\gabri\estrutura basica\bin\Debug\net6.0\estrutura basica.deps.json
+C:\Users\gabri\estrutura basica\bin\Debug\net6.0\estrutura basica.runtimeconfig.json
+C:\Users\gabri\estrutura basica\bin\Debug\net6.0\estrutura basica.dll
+C:\Users\gabri\estrutura basica\bin\Debug\net6.0\estrutura basica.pdb
+C:\Users\gabri\estrutura basica\obj\Debug\net6.0\estrutura basica.csproj.AssemblyReference.cache
+C:\Users\gabri\estrutura basica\obj\Debug\net6.0\estrutura basica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\estrutura basica\obj\Debug\net6.0\estrutura basica.AssemblyInfoInputs.cache
+C:\Users\gabri\estrutura basica\obj\Debug\net6.0\estrutura basica.AssemblyInfo.cs
+C:\Users\gabri\estrutura basica\obj\Debug\net6.0\estrutura basica.csproj.CoreCompileInputs.cache
+C:\Users\gabri\estrutura basica\obj\Debug\net6.0\estrutura basica.dll
+C:\Users\gabri\estrutura basica\obj\Debug\net6.0\refint\estrutura basica.dll
+C:\Users\gabri\estrutura basica\obj\Debug\net6.0\estrutura basica.pdb
+C:\Users\gabri\estrutura basica\obj\Debug\net6.0\estrutura basica.genruntimeconfig.cache
+C:\Users\gabri\estrutura basica\obj\Debug\net6.0\ref\estrutura basica.dll
